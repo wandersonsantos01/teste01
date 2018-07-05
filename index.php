@@ -25,5 +25,10 @@ blablabla
 	MENU 1
 </a>
 
+
+<?php
+echo 'TESTE RESET COMMIT';
+?>
+
 </body>
 </html>
